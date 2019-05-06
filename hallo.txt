@@ -1,3 +1,6 @@
 Hallo DU!!! Was suchst du in meiner Textdatei?!? ?Ich suche hier deinen Namen. Ich glaub es wird bei uns komplizierter?!?
 Ich habe einen neuen Branch erstellt mit dem Namen develop.
+Nun füge ich die 3te Zeile hinzu.
 Eigentlich sollte das die vierte Zeile sein.
+
+
